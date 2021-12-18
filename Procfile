@@ -1,1 +1,1 @@
-web: gunicorn testproject.wsgi --log-file - 
+web: gunicorn hikakuapp.wsgi --log-file - 
