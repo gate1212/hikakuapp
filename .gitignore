@@ -1,3 +1,0 @@
--e __pycache__\\ndb.sqlite3\\n.DS_Store\\nlocal_settings.py 
-[alias]
-    graph = log --graph --date-order -C -M --pretty=format:\"<%h> %ad [%an] %Cgreen%d%Creset %s\" --all --date=short
